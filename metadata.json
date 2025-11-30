@@ -1,0 +1,13 @@
+{
+  "name": "B2C EdTech",
+  "description": "A modern, full-featured EdTech platform with Admin, Instructor, and Student workflows using LocalStorage.",
+  "dependencies": {
+    "react-router-dom": "^6.20.0",
+    "recharts": "^2.10.0",
+    "lucide-react": "^0.300.0",
+    "html2canvas": "^1.4.1",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.0"
+  },
+  "requestFramePermissions": []
+}
